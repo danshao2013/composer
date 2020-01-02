@@ -1,0 +1,21 @@
+{
+    "name": "danshao2013/test",
+    "description": "just test",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "danshao2013",
+            "email": "952678948@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Danshao2013\\Test\\": "src"
+        }
+    }
+}
